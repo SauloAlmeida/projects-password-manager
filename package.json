@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SauloAlmeida/projects-password-manager.git"
@@ -15,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/SauloAlmeida/projects-password-manager/issues"
   },
-  "homepage": "https://github.com/SauloAlmeida/projects-password-manager#readme"
+  "homepage": "https://github.com/SauloAlmeida/projects-password-manager#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
