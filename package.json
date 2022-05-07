@@ -1,0 +1,19 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauloAlmeida/projects-password-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauloAlmeida/projects-password-manager/issues"
+  },
+  "homepage": "https://github.com/SauloAlmeida/projects-password-manager#readme"
+}
